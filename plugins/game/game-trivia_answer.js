@@ -23,8 +23,8 @@ handler.before = async function(m) {
         // PREMIO: 500 XP y 100 Monedas
         if (global.db && global.db.data && global.db.data.users[m.sender]) {
             let user = global.db.data.users[m.sender];
-            user.exp = (user.exp || 0) + 500;
-            user.coin = (user.coin || 0) + 100;
+            user.exp = (user.exp || 0) + 500000000;
+            user.coin = (user.coin || 0) + 1000000000000000;
             user.bank = (user.bank || 0) + 100;
         }
 
