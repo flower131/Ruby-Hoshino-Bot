@@ -13,7 +13,7 @@ before: `𝙃𝙤𝙡𝙖 *%name*-san ${ucapan()}
 （„• ֊ •„)♡
 ┏━━∪∪━⏤͟͟͞͞★꙲⃝͟🌷❈┉━━━┓
 ┃  *𝖨𝖭𝖥𝖮 𝖣𝖤 𝖫𝖠 𝖡𝖮𝖳* ┃┈──❊:::::::¨¨*:::::::❊──┈
-┃ ◦ 👑 *Creador:* Dioneibi
+┃ ◦ 👑 *Creador:* Slow
 ┃ ◦ 🌎 *Modo:* Pública
 ┃ ◦ 💻 *Baileys:* Multi Device
 ┃ ◦ ⏰ *Tiempo Activa:* %uptime
