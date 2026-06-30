@@ -89,7 +89,7 @@ npm start
   <summary><b>🚀 VER PASOS PARA CLOUD SHELL</b></summary>
 
 ```bash
-git clone https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
+git clone https://github.com/flower131/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
 ```
 
 ```bash
