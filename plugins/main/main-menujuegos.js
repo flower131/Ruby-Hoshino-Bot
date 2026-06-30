@@ -64,6 +64,7 @@ let handler = async (m, { conn }) => {
 ᰵ𐇽𑂘⃘ׂ◌࠭᷼🪷⃝⃦̸̷᪶᪶ᩘ★ *#pvp • #suit* + <mención>  
 > ✦ Juega un PVP contra otro usuario.  
 ᰵ𐇽𑂘⃘ׂ◌࠭᷼🪷⃝⃦̸̷᪶᪶ᩘ★ *#ttt*  
+ᰵ𐇽𑂘⃘ׂ◌࠭᷼🪷⃝⃦̸̷᪶᪶ᩘ★ *#trivia #preguntado #quiz*
 > ✦ Crea una sala de juego.  
 ╰────︶.︶ ⸙ ͛ ͎ ͛  ︶.︶ ੈ₊˚༅,
   `.trim();
