@@ -5,33 +5,33 @@ async function handler(m, { conn }) {
 
   const contactos = [
     {
-      numero: '18093519169',
-      nombre: '⏤͟͞ू⃪ ፝͜⁞𝘿𝙞𝙤𝙣𝙚𝙞𝙗𝙞-ʳⁱᵖ ִֶ ࣪˖ ִֶָ👑་༘',
+numero: '573113328256',
+      nombre: 'Slow་༘',
       cargo: 'Dueño Principal',
       nota: 'Creador del Bot',
-      correo: 'selinapasena@gmail.com',
-      region: '🇩🇴 República Dominicana',
-      web: 'https://github.com/Dioneibi-rip',
+      correo: 'sin información',
+      region: '🇨🇴 Colombia',
+      web: 'sin información',
       biografia: await conn.fetchStatus('18093519169@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
     {
-      numero: '18096758983',
-      nombre: '⟆⃝༉⃟⸙ ᯽ N͙e͙v͙i͙-D͙e͙v͙ ⌗⚙️࿐',
-      cargo: 'Desarrollador y ayudante',
-      nota: 'Soporte Técnico',
+      numero: '5493832438425',
+      nombre: 'Gilda',
+      cargo: 'Dueña Secundaria',
+      nota: 'COMIENDO HONGOS Y MONTANDO DINOSAURIOS',
       correo: 'sin información',
-      region: '🇩🇴 República Dominicana',
-      web: 'https://github.com/nevi-dev',
+      region: '🇦🇷 Argentina',
+      web: 'sin información',
       biografia: await conn.fetchStatus('18096758983@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
     {
-      numero: '5216671548329',
-      nombre: '⏤͟͞ू⃪ ꒰˘͈ᵕ ˘͈ 𝑳𝒆𝒈𝒏𝒂-𝒄𝒉𝒂𝒏 🪽 ꒱𖦹',
-      cargo: 'Co-Desarrolladora y contribudora',
-      nota: 'soporte y editor',
+      numero: '573147731490',
+      nombre: 'Ruby-Hoshino-Bot',
+      cargo: 'Bot',
+      nota: 'Ajaja creo que deberíamos pasarnos el ig ya sabes, jsksjs me atraes un poco, vi el “se unió” y mis ojos tiraron chispas, me gustas boee',
       correo: 'sin información',
-      region: '🇲🇽 México',
-      web: 'https://github.com/Legna-chan',
+      region: '🇨🇴 Colombia',
+      web: 'sin información',
       biografia: await conn.fetchStatus('5216671548329@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     }
   ]
